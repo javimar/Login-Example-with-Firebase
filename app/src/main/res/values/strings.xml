@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">Notitas</string>
+    <string name="title_login">Login Screen</string>
+
+    <!-- Menu actions -->
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_delete_user">Delete User</string>
+
+    <!-- Login Screens -->
+    <string name="sign_in_screen">Login</string>
+    <string name="sign_in_email">Email</string>
+    <string name="sign_in_pass">Password</string>
+    <string name="sign_in_register">Register</string>
+    <string name="sign_in_or">OR</string>
+    <string name="sign_in_forgot_pass">Forgot Password?</string>
+    <string name="sign_in_submit_new_pass">Submit for new password</string>
+    <string name="sign_in_submit_new_pass_sent">Password reset link was sent to your email address</string>
+    <string name="sign_in_submit_new_pass_error">There was a problem sending te email</string>
+    <string name="sign_in_email_empty_err">E-mail must be entered</string>
+    <string name="sign_in_pass_empty_err">Password must be entered</string>
+    <string name="sign_in_auth_err">Authentication has failed</string>
+    <string name="sign_in_pass_length_err">Password must be at least 6 characters long</string>
+    <string name="sign_in_login_err">Login/password combination incorrect</string>
+    <string name="sign_in_user_deleted">User has been deleted</string>
+    <string name="sign_in_user_logout">User has been logged out</string>
+    <string name="sign_in_user_welcome">Welcome %s !</string>
+
+</resources>
